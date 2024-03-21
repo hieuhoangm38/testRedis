@@ -1,0 +1,5 @@
+/appsettings.json
+/Properties/*
+!/Properties/launchSettings.json
+/obj
+/bin
